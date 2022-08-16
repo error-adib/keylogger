@@ -1,5 +1,5 @@
 # ERROR_ADIB 
-# SSC_22 (Adamjeean)
+# SSC_22
 # Bangladesh
 # https://error.gg/apps/ #currently unavailable! :3 
 
